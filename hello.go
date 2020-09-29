@@ -1,7 +1,8 @@
 package main
 
 import "fmt"
-import mr "goModule/hello/morestrings"
+import mr "goModulehello/morestrings"
+//import mr "morestrings"
 
 func main() {
 	fmt.Println("Hello, world.")
