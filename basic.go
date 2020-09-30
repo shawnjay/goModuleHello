@@ -1,4 +1,4 @@
-package main
+package goModuleHello
 
 import "fmt"
 import mr "goModuleHello/morestrings"
